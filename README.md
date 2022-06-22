@@ -9,3 +9,13 @@ Exercício usando Markdown
 
   
   Para saber mais acesse <https://pt.wikipedia.org/wiki/Markdown>
+
+  
+ # Por que usar Markdown? <h3>
+  
+  Porque é:
+  
+* FÁCIL : A sintaxe é tão fácil que você pode aprender em um minuto ou dois, em seguida, escreva sem perceber nada estranho ou nerd.
+* RÁPIDO : Ele economiza tempo em comparação com outros tipos de arquivos / formatos de texto. Isso ajuda a aumentar a produtividade e os fluxos de trabalho do escritor.
+* LIMPO : Tanto a sintaxe como a saída são limpas, sem confusão com nossos olhos e simples de gerenciar.
+* FLEXÍVEL : Com apenas algumas configurações, o seu texto será traduzido atravessando qualquer plataforma lá fora, editável em qualquer software de edição de texto e conversível para uma ampla variedade de formatos.
