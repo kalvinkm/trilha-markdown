@@ -19,3 +19,10 @@ Exercício usando Markdown
 * RÁPIDO : Ele economiza tempo em comparação com outros tipos de arquivos / formatos de texto. Isso ajuda a aumentar a produtividade e os fluxos de trabalho do escritor.
 * LIMPO : Tanto a sintaxe como a saída são limpas, sem confusão com nossos olhos e simples de gerenciar.
 * FLEXÍVEL : Com apenas algumas configurações, o seu texto será traduzido atravessando qualquer plataforma lá fora, editável em qualquer software de edição de texto e conversível para uma ampla variedade de formatos.
+
+  
+# Algumas formatações: <h3>
+  
+ | ** Negrito ** | **Bold** | Isto está em negrito |
+ ---------------------------------------------------
+ |  _ Itálico _  | _italic_ | Isto está em itálico |
