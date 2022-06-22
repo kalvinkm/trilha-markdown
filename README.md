@@ -23,6 +23,6 @@ Exercício usando Markdown
   
 # Algumas formatações: <h3>
   
- | ** Negrito ** | **Bold** | Isto está em negrito |
- ---------------------------------------------------
- |  _ Itálico _  | _italic_ | Isto está em itálico |
+  **Negrito** | ** Bold ** | Isto está em negrito 
+ -------------------------------------------------
+   _Itálico_  | _ italic _ | Isto está em itálico 
